@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #5793d8;
+}
+
+.navbar a.nav-link {
+    color: rgb(7, 7, 7) !important;
+}
+
+section {
+    margin-top: 80px;
+}
+
+#about img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.project-card {
+    border: 1px solid #1e1d1d;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.project-card img {
+    width: 50%;
+}
+
+.project-card h4 {
+    margin-bottom: 10px;
+}
+
+.project-card p {
+    margin-bottom: 1px;
+}
+
+
+/* section h2 {
+    width: 250px;
+    border-radius: 21px;
+    padding: 8px;
+    color: white;
+    font-weight: bold;
+} */
+
+section .title {
+    background-image: linear-gradient(to right, #603813 0%, #b29f94  51%, #603813  100%);
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    margin: 20px auto;
+    width: 250px;
+    border-radius: 30px;
+    text-align: center !important;
+}
+.socials{
+    font-size: 1.5rem;
+    color: white;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+}
+
